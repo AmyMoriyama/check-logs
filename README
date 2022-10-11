@@ -1,0 +1,14 @@
+Log Checker Bash Script
+Produced by a citizen of the Nation of Flos Regium: https://flosregium.online
+License: TNOFRS License (See License File)
+Privacy Respecting Browser Startpage: https://historya.live/start/
+=========================================
+
+This bash script is designed to allow easy checking of system logs for errors and exceptions. This script is a little rough.
+
+How to use:
+* Obtain the script package
+* Read and agree to the short license
+* Make the script(s) runable (chmod +x filename)
+* The check-logs.sh does the thing
+

@@ -1,5 +1,11 @@
 #!/bin/bash
-
+###########################################
+## Deps: grep
+##
+## Be sure to check the license file.
+##
+## Script to check logs
+###########################################
 
 # Check for exceptions
 echo "-------------------------------------------"
